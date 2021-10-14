@@ -1,6 +1,6 @@
 👋 Hi, I’m @andrewaarestad
 
-I like to write code for my many interests, I am fluent in node.js and C and can hack around in most of the rest.
+I like to write code for my many interests, from poking around the blockchain to analyzing GPS.  I mostly write node.js and C but can hack around in the rest.
 
 I’m currently learning Solidity
 
