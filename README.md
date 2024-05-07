@@ -1,8 +1,6 @@
 👋 Hi, I’m @andrewaarestad
 
-I like to write code for my many interests, including machine learning, optimization, blockchain and GPS.  I write a lot of Node.js and C/C++, and I'm getting more comfortable in Python.
-
-I’m currently learning Solidity
+I like to write code for my many interests, including machine learning, optimization, mobile apps, and GPS.  I use mostly Node.js and C/C++, with increasing usage of Python.
 
 📫 How to reach me - @AndrewAarestad on Twitter or check out my personal website: https://andrewaarestad.com
 
